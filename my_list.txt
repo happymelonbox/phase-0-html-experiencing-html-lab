@@ -1,0 +1,7 @@
+"Onions"
+"Carrots"
+"Celery"
+"Bay Leaf"
+"Garlic"
+"Thyme"
+"Peppercorn"
